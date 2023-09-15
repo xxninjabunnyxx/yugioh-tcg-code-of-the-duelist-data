@@ -1,0 +1,31 @@
+---
+id: 59687381
+name: Defense Zone
+type: Spell Card
+frameType: spell
+desc: For each monster a player controls in their Main Monster Zone, their Spells/Traps
+  in the same column as that monster cannot be destroyed by their opponent's card
+  effects, and their opponent cannot target them with card effects.
+race: Field
+card_sets:
+- set_name: 2018 Mega-Tin Mega Pack
+  set_code: MP18-EN078
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '1.05'
+- set_name: Code of the Duelist
+  set_code: COTD-EN066
+  set_rarity: Short Print
+  set_rarity_code: "(SP)"
+  set_price: '1.03'
+card_images:
+- id: 59687381
+  image_url: https://images.ygoprodeck.com/images/cards/59687381.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/59687381.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/59687381.jpg
+card_prices:
+- cardmarket_price: '0.05'
+  tcgplayer_price: '0.08'
+  ebay_price: '1.75'
+  amazon_price: '0.45'
+  coolstuffinc_price: '0.49'

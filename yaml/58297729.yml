@@ -1,0 +1,26 @@
+---
+id: 58297729
+name: Transmission Gear
+type: Trap Card
+frameType: trap
+desc: 'During damage calculation, if your monster battles an opponent''s monster:
+  Play rock-paper-scissors with your opponent. Make the losing player banish the battling
+  monster they control, face-down.'
+race: Normal
+card_sets:
+- set_name: Code of the Duelist
+  set_code: COTD-EN080
+  set_rarity: Short Print
+  set_rarity_code: "(SP)"
+  set_price: '1.04'
+card_images:
+- id: 58297729
+  image_url: https://images.ygoprodeck.com/images/cards/58297729.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/58297729.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/58297729.jpg
+card_prices:
+- cardmarket_price: '0.15'
+  tcgplayer_price: '0.18'
+  ebay_price: '0.99'
+  amazon_price: '0.90'
+  coolstuffinc_price: '0.49'
